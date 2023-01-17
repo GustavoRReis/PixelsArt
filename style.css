@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+}
+
+body {
+  /*   background-color: rgb(182, 233, 233); */
+  background-image: url(./teste.webp);
+  background-size: cover;
+    text-align: center;
+}
+
+h1{
+    color: aliceblue;
+}
+
+#color-palette {
+    width: auto;
+    height: 40px;
+    border: black solid 1px;
+    display: inline-block;
+}
+
+#black {
+    display: inline-block;
+    border: black solid 1px;
+    width: 40px;
+    height: 40px;
+}
+
+#cor2 {
+    display: inline-block;
+    border: black solid 1px;
+    width: 40px;
+    height: 40px;
+}
+
+#cor3 {
+    display: inline-block;
+    border: black solid 1px;
+    width: 40px;
+    height: 40px;
+}
+
+#cor4 {
+    display: inline-block;
+    border: black solid 1px;
+    width: 40px;
+    height: 40px;
+}
+
+.pixel {
+    background-color: white;
+    width: 40px;
+    height: 40px;
+    border: black solid 1px;
+    display: inline-block;
+    margin: -2px;
+}
+
+#title {
+    margin-top: 100px;
+}
